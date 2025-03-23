@@ -1,15 +1,15 @@
 # Text Normalization using SaraikiNLP
 
 ## Table of Contents
-1. [Installation](#-installation)
-2. [Importing Normalization Module](#-importing-normalization-module)
-3. [Normalization Functions](#-normalization-functions)
+1. [Installation](#1-installation)
+2. [Importing Normalization Module](#2-importing-normalization-module)
+3. [Normalization Functions](#3-normalization-functions)
    - [Character Normalization](#character-normalization)
    - [Number Normalization](#number-normalization)
    - [Punctuation Normalization](#punctuation-normalization)
    - [Diacritics Removal](#diacritics-removal)
    - [Spacing Correction](#spacing-correction)
-4. [Example Notebook](#-example-notebook)
+4. [Example Notebook](#4-example-notebook)
 
 ## 1. Installation
 To use SaraikiNLP for text normalization, install it using:
