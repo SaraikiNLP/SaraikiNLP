@@ -9,6 +9,7 @@
    - [Punctuation Normalization](#punctuation-normalization)
    - [Diacritics Removal](#diacritics-removal)
    - [Spacing Correction](#spacing-correction)
+   - [Normalize Text](#normalize-text)
 4. [Example Notebook](#4-example-notebook)
 
 ## 1. Installation
@@ -70,6 +71,21 @@ print(normalization.insert_space_after_punctuation(
      2  سرائیکی۔۔،وسیب
     """
 ))
+```
+
+### Normalize Text
+Normalizes text by applying **normalize_characters**, then **normalize_numbers** and **normalize_punctuation**
+
+- `remove_diacritic=True`: Call **remove_diacritics** at end of function.
+- `remove_diacritic=False` (default): Doesn't remove diacritics.
+
+
+```python
+print(normalization.normalize_text(
+   """
+   ڈیزل دی فی لیٹر قیمت 251 روپے 29 پیسے تھی ڳئی۔
+   """
+), remove_diacritic = True)
 ```
 
 ## 4. Example Notebook
