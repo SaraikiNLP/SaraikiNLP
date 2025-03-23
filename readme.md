@@ -111,16 +111,16 @@ pip install SaraikiNLP
 | [Sentimental analysis]    | Analyze sentiment using package's built in functions. |
 | [Text summarization]    | Summarize Saraiki text easily. |
 
-[Normalization]: doc/normalization.md
-[Preprocessing]: doc/preprocessing.md
-[Conversion]: doc/conversion.md
-[Tokenization]: doc/tokenization.md
-[Stemming]: doc/stemming.md
-[Lemmatization]: doc/lemmatization.md
-[Named entity recognition]: doc/ner.md
-[Part of speech (POS) tagging]: doc/pos.md
-[Sentimental analysis]: doc/sentiment.md
-[Text summarization]: doc/summarization.md
+[Normalization]: Documentation/normalization.md
+[Preprocessing]: Documentation/preprocessing.md
+[Conversion]: Documentation/conversion.md
+[Tokenization]: Documentation/tokenization.md
+[Stemming]: Documentation/stemming.md
+[Lemmatization]: Documentation/lemmatization.md
+[Named entity recognition]: Documentation/ner.md
+[Part of speech (POS) tagging]: Documentation/pos.md
+[Sentimental analysis]: Documentation/sentiment.md
+[Text summarization]: Documentation/summarization.md
 
 ---
 
@@ -135,11 +135,11 @@ pip install SaraikiNLP
 | [Current Saraiki Research] | Current research being done on Saraiki language |
 
 
-[Saraiki Alphabets]: res/saraiki_alphabets.md
-[Saraiki Counting]: res/saraiki_counting.md
-[Saraiki Months]: res/saraiki_months.md
-[Saraiki Week Days]: res/saraiki_week_days.md
-[Current Saraiki Research]: res/saraiki_research.md
+[Saraiki Alphabets]: Resources/saraiki_alphabets.md
+[Saraiki Counting]: Resources/saraiki_counting.md
+[Saraiki Months]: Resources/saraiki_months.md
+[Saraiki Week Days]: Resources/saraiki_week_days.md
+[Current Saraiki Research]: Resources/saraiki_research.md
 
 ---
 
