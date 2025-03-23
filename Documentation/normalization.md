@@ -85,7 +85,7 @@ print(normalization.normalize_text(
    """
    ڈیزل دی فی لیٹر قیمت 251 روپے 29 پیسے تھی ڳئی۔
    """
-), remove_diacritic = True)
+, remove_diacritic = True))
 ```
 
 ## 4. Example Notebook
