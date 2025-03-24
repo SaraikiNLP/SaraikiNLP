@@ -144,9 +144,12 @@ pip install SaraikiNLP
 
 ## Contributing
 
-We welcome contributions from everyone! If you'd like to help improve **SaraikiNLP**.
+We welcome contributions from everyone! If you'd like to help improve **SaraikiNLP** OR if you notice any mistakes or have suggestions for improvement, feel free to:
 
-Your contributions help make **SaraikiNLP** better for everyone. **Thank you for your interest! :-)**
+- Open an [issue](https://github.com/SaraikiNLP/SaraikiNLP/issues)  
+- Submit a [pull request](https://github.com/SaraikiNLP/SaraikiNLP/pulls)  
+
+Your contributions are highly appreciated and make **SaraikiNLP** better for everyone. **Thank you for your interest! :-)**
 
 ---
 
