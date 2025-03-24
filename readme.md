@@ -34,7 +34,6 @@
 
 **SaraikiNLP** is the world's first and fundamental **Python framework** for **Saraiki language research**. It comes with **basic NLP functions** to help researchers, students, and anyone interested in Saraiki NLP work.
 
-**Core contributors:** [Muhammad Muzamil](https://github.com/MMuzamilAI), [M. Jalal Ud Din](https://github.com/JalalHxmi)
 
 ---
 
