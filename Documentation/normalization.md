@@ -89,4 +89,4 @@ print(normalization.normalize_text(
 ```
 
 ## 4. Example Notebook
-You can use [this example notebook](https://github.com/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/normalization.ipynb) to see these functions in working.
+You can use [this example notebook](https://colab.research.google.com/github/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/normalization.ipynb) to see these functions alive!
