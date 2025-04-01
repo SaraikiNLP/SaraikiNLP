@@ -154,7 +154,7 @@ Your contributions are highly appreciated and make **SaraikiNLP** better for eve
 ---
 
 ## Copyright and license
-------------------------
+
 Code released under the [MIT License](https://github.com/SaraikiNLP/SaraikiNLP/blob/master/LICENSE.md).
 
 
