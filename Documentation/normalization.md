@@ -38,8 +38,8 @@ print(normalization.normalize_characters(example_text))
 ### Number Normalization
 Converts numbers between native and standard format.
 
-- `convert_native=True` (default): Converts standard numbers (e.g., 123) to native script.
-- `convert_native=False`: Converts native script numbers back to standard format.
+- `convert_native=True` (default): Converts Saraiki and Arabic numbers to Western (1,2,3,...).
+- `convert_native=False`: Converts Western and Arabic numbers to Saraiki (١,٢,٣,...)
 
 ```python
 print(normalization.normalize_numbers(example_text))  # Default case
@@ -49,8 +49,8 @@ print(normalization.normalize_numbers(example_text, convert_native=False))
 ### Punctuation Normalization
 Standardizes punctuation marks.
 
-- `convert_native=True`: Converts standard punctuation to native equivalents.
-- `convert_native=False` (default): Converts native punctuation to standard format.
+- `convert_native=True`: Converts native punctuation to Western equivalents.
+- `convert_native=False` (default): Preserves native punctuation except for minor removals.
 
 ```python
 print(normalization.normalize_punctuation('،گھر۔۔۔؟ بار ٹھیک ہِن سارے'))  # Default case
