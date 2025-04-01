@@ -216,4 +216,4 @@ print(preprocessing.retain_clean_saraiki(
 
 
 ## 4. Example Notebook
-You can use [this example notebook](https://github.com/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/preprocessing.ipynb) to see these functions in working.
+You can use [this example notebook](https://colab.research.google.com/github/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/preprocessing.ipynb) to see these functions alive!
