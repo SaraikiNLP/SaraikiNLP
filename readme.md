@@ -117,8 +117,8 @@ pip install SaraikiNLP
 
 | Link | Description | Free Notebook (Colab) |
 | --------------- | ------------------------------ | -------------------------------- |
-| [Normalization]  | Our functions and usage examples for normalization. | [▶️ Start Now](https://colab.research.google.com/github/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/normalization.ipynb) |
-| [Preprocessing]    | Functions SaraikiNLP provides for preprocessing. | [▶️ Start Now](https://colab.research.google.com/github/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/preprocessing.ipynb) |
+| [Normalization]  | Our functions and usage examples for normalization. | <a href="https://colab.research.google.com/github/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/normalization.ipynb" target="_blank">▶️ Start Now</a> |
+| [Preprocessing]    | Functions SaraikiNLP provides for preprocessing. | <a href="https://colab.research.google.com/github/SaraikiNLP/SaraikiNLP/blob/main/Notebooks/preprocessing.ipynb" target="_blank">▶️ Start Now</a> |
 | 🚧 [Tokenization]    | Functions for tokenization. | ⌛ Coming Soon |
 | 🚧 [Stemming]    | Functions for stemming. | ⌛ Coming Soon |
 | 🚧 [Lemmatization]    | Functions for lemmatization. | ⌛ Coming Soon |
